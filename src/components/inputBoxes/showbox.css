@@ -1,0 +1,27 @@
+.offer-box{
+    padding: 4px 3px;
+    border: 1px solid red;
+    color: red;
+   
+    border-radius: 10px;
+    background:linear-gradient(45deg,rgb(198, 167, 167),rgb(187, 168, 168));
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.info-title{
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.info{
+    font-weight: normal;
+    font-size: 11px;
+    margin-left: 3px;
+
+}
+.tax{
+    font-size: 12px;
+    margin-top:4px;
+}

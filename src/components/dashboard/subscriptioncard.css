@@ -1,0 +1,13 @@
+.circle-overlay{
+    display: flex;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    color: white;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    background-color: blue;
+}

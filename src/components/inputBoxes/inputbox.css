@@ -1,0 +1,37 @@
+.input-field{
+    display: flex;
+    border: 2px solid rgb(213, 213, 213);
+    position:relative;
+    padding:5px 8px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-weight: bold;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.invalid{
+    background-color: rgb(181, 181, 181);
+    opacity:0.5
+}
+.badge{
+    position: absolute;
+    top: 0;
+    left: 15px;
+}
+.price{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.label{
+    font-size: 14px;
+}
+.active{
+    background-color: rgb(107, 209, 97);
+}

@@ -1,0 +1,15 @@
+.btn-primary{
+    background:linear-gradient(45deg,#0048FF,#0096FF);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.custom-title{
+    font-size: 2rem;
+}
+#title{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
